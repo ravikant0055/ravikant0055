@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravikant</h1>
-<h3 align="center">I'm a developer and a designer</h3>
+<h3 align="center">I'm a developer and designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikant0055&label=Profile%20views&color=0e75b6&style=flat" alt="ravikant0055" /> </p>
 
