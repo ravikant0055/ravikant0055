@@ -9,6 +9,8 @@
   <img src="https://profile-counter.glitch.me/ravikant0055/count.svg" />
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+
 - 📫 How to reach me **kumarra927@gmail.com**
 
 - 📄 Know about my experiences [https://rb.gy/ejwewy](https://rb.gy/ejwewy)
