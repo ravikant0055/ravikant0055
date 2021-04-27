@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kumarra927@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ME9Te1YvD3kxA0_6rjLw-ZPv0bI3-0YV/view?usp=sharing](https://drive.google.com/file/d/1ME9Te1YvD3kxA0_6rjLw-ZPv0bI3-0YV/view?usp=sharing)
+- 📄 Know about my experiences [https://rb.gy/ejwewy](https://rb.gy/ejwewy)
 
 
 <h3 align="left">Languages and Tools:</h3>
