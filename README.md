@@ -5,7 +5,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ravikant0055/count.svg" />
 </p>
-<h3 align="center">I'm a developer and designer</h3>
 
 - 📫 How to reach me **kumarra927@gmail.com**
 
