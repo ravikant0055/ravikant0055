@@ -1,6 +1,9 @@
-# [Hi, I'm Ravikant <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">]
+# Hi, I'm Ravikant <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+<p align="center"> 
 <a href="https://ibb.co/TTp5tDp"><img src="https://i.ibb.co/dc1yDs1/my-cover.png" alt="my-cover" border="0"></a>
+</p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ravikant0055/count.svg" />
