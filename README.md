@@ -18,25 +18,25 @@
 ### 💻 Languages and Tools  
 
 <p align="center">
-  <span style="margin-right: 10px;">
+  <span style="margin-right: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   </span>
-  <span style="margin-right: 10px;">
+  <span style="margin-right: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
   </span>
-  <span style="margin-right: 10px;">
+  <span style="margin-right: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   </span>
-  <span style="margin-right: 10px;">
+  <span style="margin-right: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>
   </span>
   <span style="margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
   </span>
-  <span style="margin-right: 10px;">
+  <span style="margin-right: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   </span>
-  <span style="margin-right: 10px;">
+  <span style="margin-right: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
   </span>
   <span>
