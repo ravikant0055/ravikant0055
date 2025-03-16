@@ -23,8 +23,7 @@
 ### ⚡ My Github Stats
 
 ![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=ravikant0055&show_icons=true&theme=merko)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikant0055&show_icons=true&locale=en" alt="ravikant0055" /></p>
+(https://github-readme-streak-stats.herokuapp.com/?user=ravikant0055&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant0055&" alt="ravikant0055" /></p>
 
