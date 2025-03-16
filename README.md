@@ -11,14 +11,11 @@
   <img src="https://profile-counter.glitch.me/ravikant0055/count.svg" />
 </p>
 
----
 
-## 📫 How to reach me  
+### 📫 How to reach me  
 **Email:** [ravikant.code@gmail.com](mailto:ravikant.code@gmail.com)  
 
----
-
-## 💻 Languages and Tools  
+### 💻 Languages and Tools  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
@@ -31,19 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats  
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant0055&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
   <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding GIF" width="45%"/>
 </div>
 
----
-
-## ⚡ More Stats  
-
+### ⚡ Github Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravikant0055&show_icons=true&theme=merko" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant0055&theme=dark" alt="GitHub Streak" width="45%" />
