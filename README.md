@@ -18,11 +18,11 @@
 ### 💻 Languages and Tools
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant0055&show_icons=true&locale=en&layout=compact&theme=dark" alt="ravikant0055" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant0055&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ravikant0055" /></p>
 
 ### ⚡ My Github Stats
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ravikant0055&show_icons=true&theme=merko" alt="ravikant0055" width="300" />  
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant0055&theme=gotham" alt="ravikant0055" width="300" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ravikant0055&show_icons=true&theme=merko" alt="ravikant0055" width="400" />  
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant0055&theme=dark" alt="ravikant0055" width="400" />
 </div>  
 
