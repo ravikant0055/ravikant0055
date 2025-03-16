@@ -11,12 +11,12 @@
   <img src="https://profile-counter.glitch.me/ravikant0055/count.svg" />
 </p>
 
---
+---
 
 ### 📫 How to reach me  
 **Email:** [ravikant.code@gmail.com](mailto:ravikant.code@gmail.com)  
 
---
+---
 
 
 ### 💻 Languages and Tools
@@ -31,12 +31,12 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white" />
 </p>
-<p align="centert">
+
+<p align="center">
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant0055&show_icons=true&locale=en&layout=compact&theme=dark" alt="ravikant0055" />
 </p>
 
---
 
 ### ⚡ My Github Stats
 <p align="center">
