@@ -9,21 +9,20 @@
   <img src="https://profile-counter.glitch.me/ravikant0055/count.svg" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+
 
 - 📫 How to reach me **ravikant.code@gmail.com**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
 
-</p>
+### 💻 Languages and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant0055&show_icons=true&locale=en&layout=compact&theme=dark" alt="ravikant0055" /></p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant0055&show_icons=true&locale=en&layout=compact&theme=dark" alt="ravikant0055" /></p>
 
 ### ⚡ My Github Stats
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ravikant0055&show_icons=true&theme=merko" alt="ravikant0055" />  
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant0055&theme=dark" alt="ravikant0055" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ravikant0055&show_icons=true&theme=merko" alt="ravikant0055" width="30px" />  
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant0055&theme=gotham" alt="ravikant0055" width="30px" />
 </div>  
 
