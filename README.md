@@ -23,6 +23,6 @@
 
 ### ⚡ My Github Stats
 <div align="left">  
-![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=ravikant0055&show_icons=true&theme=merko)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikant0055&show_icons=true&theme=merko" alt="ravikant0055" />  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant0055&theme=dark" alt="ravikant0055" />
 </div>
