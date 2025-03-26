@@ -29,7 +29,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant0055&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant0055&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="45%"/> -->
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikant0055&layout=compact&theme=tokyonight" alt="Ravi's GitHub Top Langs" width="45%"/>
 
   <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding GIF" width="45%"/>
