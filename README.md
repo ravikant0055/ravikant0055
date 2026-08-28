@@ -25,9 +25,8 @@ Full-Stack Developer with deep expertise in <b>JavaScript</b>, specializing in h
 
 <!--### ⚡ Github Stats  
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ravikant0055&show_icons=true&theme=merko" alt="Ravi's GitHub Stats" width="45%" /> -->
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant0055&theme=dark" alt="Ravi's GitHub Streak" width="45%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ravikant0055&show_icons=true&theme=merko" alt="Ravi's GitHub Stats" width="45%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant0055&theme=dark" alt="Ravi's GitHub Streak" width="45%" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant0055&theme=tokyonight" alt="Ravi's GitHub Streak Stats" width="46%"/>
-</p>
--->
+</p> -->
 
